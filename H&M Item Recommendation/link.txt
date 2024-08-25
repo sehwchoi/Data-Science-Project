@@ -1,3 +1,3 @@
 Link to the codes/models/
 
-https://colab.research.google.com/drive/1TA0ml7tkMGjCNa7VLwiqqpp2pNnY21El#scrollTo=BFxiLoGHU3lM&line=10&uniqifier=1
+https://www.kaggle.com/code/seonghwachoi/h-m-recommendation-als
