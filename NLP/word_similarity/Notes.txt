@@ -1,0 +1,7 @@
+About the project
+- This project is about building word2vec using skipgram logic to measure word similarity and to find the root word of morphology.
+- Training data is movie review data
+- Word similairty is measured by computing cosine similarities of two word vectors.
+- Morphology form of the word(e.g. words with less,ing, un, est). Learned about the vector of morph(subtract the mophology and the root word)
+and then, the root word is predicted given the mophology using the vector arithmetic.
+
