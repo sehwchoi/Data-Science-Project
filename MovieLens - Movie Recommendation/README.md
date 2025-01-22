@@ -15,7 +15,7 @@ Number of unique items:  1675
   * based on the average of the selected movie
 
 * Collaborative Filtering
-  * KNN Basic, KNN with Z score
+  * KNN Basic, KNN with Z score normalization
     * mean squared differences, cosine similarity, pearson correlation for the similarity measurements. Pearson correlation based model worked best.
     * 4, 6, 8, 10, 12 are tested as the number of neighbors
     * item based or user based.
